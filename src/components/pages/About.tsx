@@ -85,7 +85,7 @@ const About = () => {
                   <div className="w-[150px] h-[150px] border border-blue-300 rounded-md"></div>
                   <div className="w-[150px] h-[150px] border border-blue-300 rounded-md"></div>
                 </div>
-                <div className="flex items-center gap-x-4 gap-y-4 max-450:flex-col">
+                <div className="flex items-center gap-x-4 gap-y-4 max-450:flex-col mb-[100px]">
                   <p className="text-[18px] text-neutral-700 font-normal">
                     Тел: +996 (709) 340-054
                   </p>
