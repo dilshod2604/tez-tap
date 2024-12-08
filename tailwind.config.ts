@@ -12,6 +12,11 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      screens: {
+        "max-380": { max: "380px" },
+        "min-380": { min: "380px" },
+        "max-450": { max: "450px" },
+      },
     },
   },
   plugins: [],
